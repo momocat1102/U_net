@@ -6,3 +6,5 @@
 * keras unet：https://keras.io/examples/vision/oxford_pets_image_segmentation/
 * model graph：
 ![](https://i.imgur.com/K1Juumh.png)
+* layer sample
+![](https://github.com/momocat1102/U_net/blob/main/img1.jpg)
