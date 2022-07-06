@@ -9,7 +9,7 @@
 ![](https://i.imgur.com/K1Juumh.png)
 * layer sample
   * original img  
-  ![](https://github.com/momocat1102/U_net/blob/main/img1.jpg)
+  ![](https://github.com/momocat1102/U_net/blob/main/img2.jpg)
   * layer_img
     * conv2d_3
     ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_3.jpg)
