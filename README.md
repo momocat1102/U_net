@@ -10,5 +10,7 @@
   * original img  
   ![](https://github.com/momocat1102/U_net/blob/main/img1.jpg)
   * layer_img
-  ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_3.jpg)
-  ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_17.jpg)
+    * conv2d_3
+    ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_3.jpg)
+    * conv2d_17
+    ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_17.jpg)
