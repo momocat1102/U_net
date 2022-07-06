@@ -7,4 +7,8 @@
 * model graph：
 ![](https://i.imgur.com/K1Juumh.png)
 * layer sample
-![](https://github.com/momocat1102/U_net/blob/main/img1.jpg)
+  * original img  
+  ![](https://github.com/momocat1102/U_net/blob/main/img1.jpg)
+  * layer_img
+  ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_3.jpg)
+  ![](https://github.com/momocat1102/U_net/blob/main/layer2_img/layerconv2d_17.jpg)
